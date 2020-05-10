@@ -1,19 +1,51 @@
 name,artist,id,danceability,energy,loudness,speechiness,acousticness,tempo,liveness,valence
-もしもまたいつか (Moshimo Mata Itsuka) Feat. Ariel NIDJI,Ariel NOAH,3OVQ4OkklQ0LpIfd7Bl0jI,0.742,0.486,-11.917,0.0302,0.629,114.016,0.152,0.565
-Wait Another Day,Mike Williams,7qZOnik9K8Mv987ccBjwwj,0.727,0.912,-3.594,0.0377,0.0272,126.023,0.118,0.671
-Make You Mine (feat. Moa Lisa),Mike Williams,1ICPREUY4yMNeFEgbNh7D5,0.72,0.781,-4.975,0.0569,0.0171,126.004,0.215,0.349
-Wait For You (feat. Maia Wright),Mike Williams,0OpfRbSog1yotyMpFVX6K9,0.517,0.733,-4.075,0.0398,0.224,109.939,0.0921,0.426
-I Got You,Mike Williams,4QE7rcOeNErdz87pgSZ823,0.597,0.832,-3.865,0.0782,0.114,126.069,0.7,0.374
-Memori,Eka Gustiwana,266KLge0BPmxLkMqtPhOJZ,0.784,0.688,-6.925,0.0322,0.483,109.99,0.17,0.689
-LATHI (ꦭꦛꦶ),Weird Genius,7ksK7gpPDFdY4JLHr1hKfY,0.58,0.898,-1.928,0.0349,0.0857,150.018,0.478,0.213
-Ko Ko Bop,EXO,5EzitieoPnjyKHAq0gfRMa,0.749,0.85,-4.346,0.0468,0.0319,145.983,0.0678,0.672
-death bed (coffee for your head) (feat. beabadoobee),Powfu,7eJMfftS33KTjuF7lTsMCx,0.726,0.431,-8.765,0.135,0.731,144.026,0.696,0.348
-Superheroes,The Script,37sINbJZcFdHFAsVNsPq1i,0.491,0.885,-4.121,0.0395,0.00219,166.992,0.0741,0.641
-Hall of Fame (feat. will.i.am),The Script,7wMq5n8mYSKlQIGECKUgTX,0.421,0.873,-4.343,0.0565,0.0653,84.803,0.123,0.63
-You Know I'll Go Get,DJ Haning,7oQqbE69h5VEU25RZHIZ5p,0.859,0.868,-4.746,0.0452,0.0092,131.994,0.208,0.735
-Serenata Jiwa Lara,Diskoria,7ivFVBVYH5akFOtOAyeJ4j,0.608,0.628,-6.695,0.0312,0.0952,115.019,0.222,0.886
-Balada Insan Muda,Diskoria,7rt1ze8gO84v4k9vBvb7JB,0.626,0.811,-5.479,0.0364,0.111,113.925,0.472,0.691
-Bentuk Cinta,Eclat Story,4J12uL4aNKzRco173fPyYQ,0.73,0.328,-9.542,0.0323,0.585,110.11,0.135,0.503
-As If It's Your Last,Funguypiano,5JQKHB3Bmjhz1GB0kI91Fu,0.314,0.303,-14.94,0.0426,0.874,129.125,0.134,0.0646
-Way Back Home,Funguypiano,2nC7sW1clIqOxZ48DcKrTg,0.317,0.264,-14.031,0.042,0.937,90.625,0.188,0.0716
-Secukupnya,Hindia,5drW6PGRxkE6MxttzVLNk5,0.731,0.796,-5.098,0.0344,0.19,102.006,0.354,0.933
+Jodoh,Jun Bintang,1Qpn2Q0vIn5WICyeV0K50k,0.421,0.44,-6.48,0.0704,0.867,200.085,0.31,0.745
+Song Brerong,A. A. Raka Sidan,01orjr5LgaX54SZJSr9P9Q,0.591,0.487,-8.034,0.0289,0.762,139.978,0.234,0.489
+Ketut Garing,Emoni Bali,75onKhlnwK5iMrYorwnvhW,0.839,0.317,-10.497,0.043,0.753,111.056,0.073,0.827
+Don Dapdape,Puspa Dewi,6XBuZsFAo2sj9wmfLcGD8N,0.458,0.266,-9.379,0.0272,0.971,99.62,0.178,0.34
+Don Dapdape,Puspa Dewi,6XBuZsFAo2sj9wmfLcGD8N,0.458,0.266,-9.379,0.0272,0.971,99.62,0.178,0.34
+Tresna Terlarang,Lebri Partami,3dcM3dDxngxCNteq2thfXT,0.63,0.598,-5.244,0.0384,0.737,139.98,0.0665,0.554
+Tresna Kanti Mati II,D’GO Vaspa,5LmcQQci9agAeb1E7FsWVb,0.589,0.326,-6.049,0.0262,0.694,131.717,0.162,0.352
+Sing Gelahang Adi,D’GO Vaspa,0HeuBxldMFcoGBDisYhCbU,0.483,0.646,-5.545,0.0328,0.0828,130.153,0.101,0.525
+Tetep Cinta Beli (Ocha Putri),AA Raka Sidan,0e06UZvPl5Lz0V2X1e9Aah,0.647,0.679,-3.963,0.0284,0.76,131.954,0.232,0.466
+Sing Kelet Sing Goloh / Bukit Ejohin,AA Raka Sidan,2YJ1AAcc4KEx3f3dUVxMT0,0.751,0.825,-5.064,0.0304,0.602,142.977,0.126,0.959
+Sujud Memotoh / Kuluk Ngamah Kacang,AA Raka Sidan,4OiwLCjnmVjyTvLIuFiQaM,0.712,0.897,-5.35,0.0325,0.71,143.008,0.128,0.97
+Kenceng / Song Brerong,AA Raka Sidan,2YAx3nYQ1SJGjXWeDktfKm,0.757,0.836,-5.068,0.0347,0.696,143.025,0.0824,0.923
+Pada Pada Ngalih Makan / Nyama Peturu Bali,AA Raka Sidan,1xctdM3CE9OLmrFBXgATcC,0.781,0.809,-4.921,0.0334,0.689,142.966,0.0802,0.965
+Sayang,Jun Bintang,3bk2IcdrOHvF9vdihyX42j,0.56,0.294,-8.182,0.0327,0.803,139.939,0.0782,0.248
+Kangen,Jun Bintang,72uARWkka1NXbdbTZzeNpN,0.665,0.502,-5.607,0.0301,0.834,105.104,0.17,0.642
+Rara Ayu,A. A. Raka Sidan,6qz4oQ8HbC1SYyKUruO8q0,0.572,0.428,-5.629,0.0265,0.562,119.904,0.175,0.248
+Jomblo Bahagia,Yessy Diana,27cMGrhi25PdyDSbvaPdlg,0.741,0.58,-7.658,0.0433,0.556,129.959,0.199,0.493
+Ratu Anom,Emoni Bali,0oXSnQtGOIKqxHDGacCs4X,0.549,0.33,-8.921,0.0312,0.815,118.219,0.0629,0.24
+Made Cenik,Emoni Bali,5pR910rqsA48qZD02Hjo9J,0.815,0.372,-9.148,0.0597,0.655,118.119,0.0878,0.793
+Karma,Tika Pagraky,486pvPDA4oJFCaGJ3vH0GA,0.685,0.513,-6.011,0.0315,0.8,131.92,0.125,0.507
+Sayangang Tiang,Ayu Saraswati,1BIILjmJl1RUzv9V2VSUQu,0.623,0.853,-9.251,0.0331,0.00268,130.024,0.433,0.9
+Sehidup Semati,HarmoniA,56aqFZO6Gj5jzMkGuyTeyv,0.592,0.475,-5.786,0.0257,0.745,131.954,0.105,0.171
+Ragu,HarmoniA,1vbCjlGwDQ9S9SspX21Ewi,0.627,0.53,-5.66,0.0258,0.462,130.133,0.18,0.265
+Kenangan Hati,HarmoniA,01TYg9w1xolvZURGtj7Mxz,0.626,0.544,-5.964,0.0259,0.508,124.962,0.102,0.148
+Kembali,HarmoniA,49A6rN1obR71ZGPWP922m4,0.564,0.512,-6.475,0.0273,0.798,142.496,0.102,0.364
+Dangap Dangap,Dek Ulik,2RwY4SbewBrAnToebXuiTt,0.884,0.918,-3.969,0.0366,0.67,112.03,0.0471,0.962
+Ngalih Liang,Joni Agung,5F10HW6zDnspXBRDX3RZGm,0.888,0.505,-9.922,0.0458,0.389,120.108,0.3,0.969
+Pejalan Tresna,HarmoniA,77T5Lse4Ic28CFsmTyPqaU,0.591,0.323,-7.1,0.0283,0.847,125.77,0.146,0.263
+Formalin Sik Luh,Widi Widiana,6HFLEv5k42hYkWl0g2MeNg,0.658,0.613,-4.902,0.0395,0.714,74.956,0.288,0.588
+Luh Baju Barak,Widi Widiana,5rP4XUYSC7byolZbDvKrer,0.757,0.915,-4.204,0.044,0.596,135.017,0.25,0.961
+Gek Cantik,Widi Widiana,0Z2RDPCkYSHgqHowfOKyIe,0.757,0.63,-4.738,0.0491,0.352,110.044,0.164,0.581
+Pada-Pada Ngelah Hobi,Widi Widiana,5F2IYdcgQzG0yERLIQ91SV,0.72,0.806,-3.853,0.031,0.56,135.022,0.531,0.93
+Kaden Saja,Joni Agung & Double T,0XW77PRy0QAwMgTsmfJC23,0.927,0.659,-8.242,0.0334,0.16,112.047,0.17,0.966
+Ulian Tiang Sayang,Putri Bulan,2FXeRLebHznm0Esem67svg,0.403,0.216,-8.952,0.0298,0.948,130.093,0.105,0.146
+Buleleng Karangasem,Dwi Negari,3XKNWguYng2AX7jrNd0CT3,0.767,0.802,-8.56,0.0312,0.102,130.034,0.625,0.9
+Bedak Uling Bangli,Dek Ulik,6fPx3YSaL02G7i5FoVam0u,0.539,0.529,-5.516,0.0265,0.777,133.872,0.111,0.402
+Hubungan Tanpa Status,Ary Kencana,6E7KP4Wrrjn5QhqxHyC1rx,0.486,0.306,-9.002,0.029,0.929,140.194,0.0977,0.663
+Pulau Bali,I Gusti Sudarsana,1iYMpIWn8QL0CKGwVKZFXG,0.493,0.751,-8.717,0.0466,0.169,163.986,0.0746,0.904
+Pak Bos,A. A. Raka Sidan,0X3KIB4KMKJhUGGnb1i161,0.498,0.475,-7.378,0.0259,0.527,148.177,0.0744,0.191
+Jenggot Uban,Emoni Bali,53ch8wKQelJzpJ0yc083R9,0.818,0.424,-9.741,0.101,0.763,138.018,0.66,0.772
+Manis Manesin,Joni Agung,0JGdAjgk8xrYfnvLuYsvl3,0.703,0.326,-10.777,0.044,0.47,109.99,0.147,0.583
+Pade-Pade Ngajiang,Arumi Bali,1X4VAYoLQcpTpB8kmVrkg9,0.617,0.523,-5.893,0.0314,0.848,123.899,0.114,0.445
+Putri Cening Ayu,Puspa Dewi,1ohmhQRh2r2M2XzMGNxzBo,0.35,0.226,-11.163,0.0298,0.927,79.785,0.124,0.252
+Setrum Cadangan,Dek Ulik,2b2tgOOFBroAiBOJd6w2Wu,0.663,0.65,-5.435,0.0294,0.732,130.02,0.11,0.615
+Ketut Dalam Proses,D’GO Vaspa,49qBZeIav7G0TUg4TyJkiK,0.64,0.204,-7.113,0.0335,0.89,119.78,0.114,0.152
+Sing Sanggup,Putri Bulan,6P7qHX9n1jyP42TGWJmsjW,0.524,0.354,-7.464,0.0299,0.921,139.79,0.142,0.165
+Tanpa Jiwa,Yan Mus,4izbPtqpcrKo0cJbrAAbK7,0.75,0.826,-9.172,0.0375,0.0207,130.028,0.298,0.929
+Depang Tiang Bagia,Putri Bulan,0zdjzCDSnAfFhLIgEgwBLC,0.599,0.291,-8.972,0.0303,0.811,129.912,0.122,0.172
+Matue Cerewet,Ayu Wiryastuti,0AdAdbItPIAGufAtchDtfk,0.478,0.514,-7.887,0.0284,0.787,144.032,0.338,0.182
+Rindu Ngantosang Janji,Putri Bulan,02s6wq8snEUbJK62YdQSVp,0.711,0.526,-7.231,0.0444,0.409,99.968,0.0432,0.614
